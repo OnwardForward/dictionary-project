@@ -23,7 +23,7 @@ export default function App() {
           </a>{" "}
           This project is{" "}
           <a
-            href="https://github.com/OnwardForward/dictionary-project"
+            href="https://github.com/OnwardForward/react-dictionary-app"
             target="_blank"
             rel="noopener noreferrer"
           >
